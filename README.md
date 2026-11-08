@@ -1,2 +1,2 @@
 # SnapGene-Installer
-A script and associated files to install SnapGene in WSL Ubuntu.
+If you can read this, simply close this tab.
